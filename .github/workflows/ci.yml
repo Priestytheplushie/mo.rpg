@@ -36,4 +36,4 @@ jobs:
       # Check Python syntax
       - name: Check syntax
         run: |
-          python -m py_compile main.py
+          python -m py_compile src/main.py
