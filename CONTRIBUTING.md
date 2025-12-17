@@ -89,7 +89,3 @@ Security issues should be reported privately to the maintainers if possible.
 Be respectful and constructive.
 
 Harassment, discrimination, or hostile behavior will not be tolerated.
-
-```
-
----
